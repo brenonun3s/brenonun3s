@@ -49,9 +49,9 @@ Estou estudando no momento, linguagem de programação Java e também Modelagem 
 
 # 
 ## Contate-me☎️
-![https://www.linkedin.com/in/brenonun3s/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenonun3s/)
 
-![morais.brenonunes@hotmail.com](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+[![morais.brenonunes@hotmail.com](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:morais.brenonunes@hotmail.com)
 
 
 
