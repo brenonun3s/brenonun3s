@@ -1,17 +1,57 @@
 ### Olá, Eu sou Breno Nunes!👋👽
+<div> <img src="https://images-cdn.exchange.art/PXsu6PmL51HJn5Ff5jUTrv_fD6Yw7p3B8vLodB9Rsiw?ext=fastly&optimize=medium" width="100"  
+align="center"> </div>
 
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white) 
+
+Daft Punk - Lose Yourself To Dance (Feat. Pharrell Williams)
+
+
+
+
+
+#
 Atualmente, sou estudante de 2º período no curso de Tecnologia em Análise e Desenvolvimento de Sistemas, na Unisales - Centro Universitário Salesiano.
 
+Estou estudando no momento, linguagem de programação Java e também Modelagem de Banco de dados com o SGBD MYSQL e SQL. Possuo conhecimento Nível Básico e Python e HTML.
+
+# Status 💻🖖
 
 
 
 ![Brenonun3s GitHub stats](https://github-readme-stats.vercel.app/api?username=brenonun3s&show_icons=true&theme=onedark)
 
-# Minhas Linguagens mais utilizadas 🖖
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenonun3s)](https://github.com/brenonun3s/github-readme-stats)
 
 
 
-## Tecnologias que uso no meu dia
+## Tecnologias que uso no meu dia-a-dia☕
+
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+
+
+
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+# 
+## Contate-me☎️
+![https://www.linkedin.com/in/brenonun3s/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+![morais.brenonunes@hotmail.com](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+
+
 
