@@ -2,9 +2,7 @@
 <div> <img src="https://images-cdn.exchange.art/PXsu6PmL51HJn5Ff5jUTrv_fD6Yw7p3B8vLodB9Rsiw?ext=fastly&optimize=medium" width="100"  
 align="center"> </div>
 
-[![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://www.youtube.com/watch?v=NF-kLy44Hls&ab_channel=DaftPunkVEVO)
 
-Daft Punk - Lose Yourself To Dance (Feat. Pharrell Williams)
 
 
 
