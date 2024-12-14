@@ -13,7 +13,7 @@ Atualmente, sou estudante de 2º período no curso de Tecnologia em Análise e D
 
 Estou estudando no momento, linguagem de programação Java e também Modelagem de Banco de dados com o SGBD MYSQL e SQL. Possuo conhecimento Nível Básico e Python e HTML.
 
-# Status 💻🖖
+# Status 📊
 
 
 
