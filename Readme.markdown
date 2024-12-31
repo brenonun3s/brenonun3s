@@ -11,7 +11,7 @@ align="center"> </div>
 #
 Atualmente, sou estudante de 2º período no curso de Tecnologia em Análise e Desenvolvimento de Sistemas, na Unisales - Centro Universitário Salesiano.
 
-Estou estudando no momento, linguagem de programação Java e também Modelagem de Banco de dados com o SGBD MYSQL e SQL. Possuo conhecimento Nível Básico e Python e HTML.
+Estou estudando no momento, linguagem de programação Java e também Modelagem de Banco de dados com o SGBD MYSQL e PostgreSQL. Possuo conhecimento Nível Básico em Python e HTML.
 
 # Status 📊
 
@@ -37,6 +37,8 @@ Estou estudando no momento, linguagem de programação Java e também Modelagem 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 
 
