@@ -18,10 +18,6 @@ Possuo conhecimento Nível Básico em Python e HTML.
 # Status 📊
 
 
-
-![Brenonun3s GitHub stats](https://github-readme-stats.vercel.app/api?username=brenonun3s&theme=blue-green)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenonun3s)](https://github.com/brenonun3s/github-readme-stats)
 
 
