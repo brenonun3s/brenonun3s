@@ -9,9 +9,11 @@ align="center"> </div>
 
 
 #
-Atualmente, sou estudante de 2º período no curso de Tecnologia em Análise e Desenvolvimento de Sistemas, na Unisales - Centro Universitário Salesiano.
+Atualmente, sou estudante de 3º período no curso de Tecnologia em Análise e Desenvolvimento de Sistemas, na Unisales - Centro Universitário Salesiano.
 
-Estou estudando no momento, linguagem de programação Java e também Modelagem de Banco de dados com o SGBD MYSQL e PostgreSQL. Possuo conhecimento Nível Básico em Python e HTML.
+Estou estudando no momento, linguagem de programação Java e também Modelagem de Banco de dados com o SGBD MYSQL e PostgreSQL. 
+
+Possuo conhecimento Nível Básico em Python e HTML.
 
 # Status 📊
 
