@@ -9,7 +9,7 @@ align="center"> </div>
 #
 Estudante do 3º período no curso de Tecnologia em Análise e Desenvolvimento de Sistemas, na Unisales - Centro Universitário Salesiano.
 
-No campo profissional, atuo no momento como suporte N1, onde presto apoio e auxilio aos usuários finais, externos e internos, sanando suas dúvidas, resolvendo problemas ereportando situações! 
+No campo profissional, atuo no momento como suporte N1, onde presto apoio e auxilio aos usuários finais (externos e internos), sanando suas dúvidas, resolvendo problemas e reportando chamando e escalonando chamados conforme necesidade! 
 Possuo experiência com mais de 7 anos no ramo de logística e transportes, com gestão eficácia, comprometimento e entrega de atividades de minha responsabilidade e gestão!
 
 Fascinado e entusiasta no desenvolvimento Backend, onde nos meus tempos livres, desenvolvo alguns projetos utilizando Java com Spring Boot, e bancos relacionais PostgreSQL e MYSQL para gestão dos dados do sistema desenvolvido! ☕🏦
