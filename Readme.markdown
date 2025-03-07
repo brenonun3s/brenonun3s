@@ -14,8 +14,6 @@ Possuo experiência com mais de 7 anos no ramo de logística e transportes, com 
 
 Fascinado e entusiasta no desenvolvimento Backend, onde nos meus tempos livres, desenvolvo alguns projetos utilizando Java com Spring Boot, e bancos relacionais PostgreSQL e MYSQL para gestão dos dados do sistema desenvolvido! ☕🏦
 
-# Meu Currículo
-
 # Status 📊
 
 
@@ -49,7 +47,6 @@ Fascinado e entusiasta no desenvolvimento Backend, onde nos meus tempos livres, 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 
-# 
 ## Contate-me ☎️
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenonun3s/)
