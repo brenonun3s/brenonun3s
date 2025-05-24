@@ -17,7 +17,6 @@ Fascinated and enthusiastic about Backend development, where in my spare time, I
 
 # Status 📊
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenonun3s)](https://github.com/brenonun3s/github-readme-stats)
 
 
