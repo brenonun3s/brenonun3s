@@ -5,9 +5,13 @@ Sejam Bem Vindos!👋🇧🇷
 Welcome!👋🇺🇸
 
 # Sobre Mim 🇧🇷🙋‍♂️
-Estudante do 3º período no curso de Tecnologia em Análise e Desenvolvimento de Sistemas, na Unisales - Centro Universitário Salesiano. Atualmente, atuo na área de T.I como Suporte N1.
-
-Fascinado e entusiasta no desenvolvimento Backend, onde nos meus tempos livres, desenvolvo alguns projetos utilizando Java com Spring Boot, e bancos relacionais PostgreSQL para gestão dos dados do sistema desenvolvido! ☕🏦
+Profissional com 7 anos de experiência em logística e operações, atualmente cursando Análise e 
+Desenvolvimento de Sistemas, com foco em desenvolvimento backend utilizando Java e Spring Boot. Atuação 
+consolidada em ambientes corporativos, com profundo conhecimento em sistemas ERP, WMS e TMS, controle e 
+análise de dados, além de automação de processos. Experiência prática em suporte técnico, execução de 
+consultas SQL e testes de software, aliada a habilidades em levantamento de requisitos e documentação técnica. 
+Proativo e ágil no aprendizado, direciono minha carreira para desenvolvimento backend, visando integrar meu 
+conhecimento em processos de negócios à criação de soluções técnicas que gerem valor real às empresas. 
 
 # About Me 🇺🇸🙋‍♂️
 
