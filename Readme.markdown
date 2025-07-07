@@ -1,23 +1,30 @@
-### Olá, Eu sou Breno Nunes! 
-Sejam Bem Vindos!👋🇧🇷
+### Olá, Eu sou Breno Nunes! / HI, I'm Breno Nunes! 👋
 
-### HI, I'm Breno Nunes!
-Welcome!👋🇺🇸
+## 🇧🇷 Sejam Bem-Vindos! | 🇺🇸 Welcome!
 
-# Sobre Mim 🇧🇷🙋‍♂️
-Profissional com 7 anos de experiência em logística e operações, atualmente cursando Análise e 
-Desenvolvimento de Sistemas, com foco em desenvolvimento backend utilizando Java e Spring Boot. Atuação 
-consolidada em ambientes corporativos, com profundo conhecimento em sistemas ERP, WMS e TMS, controle e 
-análise de dados, além de automação de processos. Experiência prática em suporte técnico, execução de 
-consultas SQL e testes de software, aliada a habilidades em levantamento de requisitos e documentação técnica. 
-Proativo e ágil no aprendizado, direciono minha carreira para desenvolvimento backend, visando integrar meu 
-conhecimento em processos de negócios à criação de soluções técnicas que gerem valor real às empresas. 
 
-# About Me 🇺🇸🙋‍♂️
+## Sobre Mim / About Me 🙋‍♂️
 
-Third-year student of the Technology course in Systems Analysis and Development, at Unisales - Centro Universitário Salesiano. Currently, working in the IT area as N1 Support.
+🇧🇷 Desenvolvedor Backend Java | Estudante de Análise e Desenvolvimento de Sistemas
 
-Fascinated and enthusiastic about Backend development, where in my spare time, I develop some projects using Java with Spring Boot, and databases related to PostgreSQL to manage the data of the developed system! ☕🏦
+🇺🇸 Java Backend Developer | Systems Analysis and Development Student
+
+Profissional em transição de carreira com 7 anos em logística e operações, unindo expertise em ERP/WMS/TMS à tecnologia.
+
+Career-transition professional with 7 years in logistics and operations, bridging ERP/WMS/TMS expertise with tech.
+
+# 🇧🇷 Atuação Técnica | 🇺🇸 Technical Skills
+▸ Backend Java: Spring Boot & Quarkus
+▸ Banco de Dados: SQL queries & otimização
+▸ Automação: Processos e análise de dados
+▸ Documentação: Requisitos e specs técnicas
+
+(Versão EN: Same structure, keep terms in English)
+
+🇧🇷 Diferencial | 🇺🇸 Key Advantage
+Visão 360°: Integro conhecimentos operacionais a soluções técnicas para eficiência real.
+
+360° view: Bridge operational knowledge to tech solutions for tangible efficiency.
 
 # Status 📊
 
@@ -30,23 +37,27 @@ Fascinated and enthusiastic about Backend development, where in my spare time, I
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Quarkus](https://img.shields.io/badge/quarkus-%234794EB.svg?style=for-the-badge&logo=quarkus&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-- Organização e Projetos / Organization and Projects
 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 
 ## Contate-me / Contact me ☎️
@@ -54,3 +65,4 @@ Fascinated and enthusiastic about Backend development, where in my spare time, I
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenonun3s/)
 
 [![morais.brenonunes@hotmail.com](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:morais.brenonunes@hotmail.com)
+
