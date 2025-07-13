@@ -5,9 +5,9 @@
 
 ## Sobre Mim / About Me 🙋‍♂️
 
-🇧🇷 Desenvolvedor Backend Java | Estudante de Análise e Desenvolvimento de Sistemas
+🇧🇷 Desenvolvedor Backend Java | Estudante de Sistemas de Informação - 4º período
 
-🇺🇸 Java Backend Developer | Systems Analysis and Development Student
+🇺🇸 Java Backend Developer | Information Systems Student - 4th semester
 
 Profissional em transição de carreira com 7 anos em logística e operações, unindo expertise em ERP/WMS/TMS à tecnologia.
 
@@ -16,7 +16,6 @@ Career-transition professional with 7 years in logistics and operations, bridgin
 # 🇧🇷 Atuação Técnica | 🇺🇸 Technical Skills
 ▸ Backend Java: Spring Boot & Quarkus
 ▸ Banco de Dados: SQL queries & otimização
-▸ Automação: Processos e análise de dados
 ▸ Documentação: Requisitos e specs técnicas
 
 (Versão EN: Same structure, keep terms in English)
