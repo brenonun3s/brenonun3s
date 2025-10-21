@@ -1,21 +1,8 @@
 # 👋 Hi, I'm Breno Nunes  
 
 ## 🙋‍♂️ About Me  
-- Java Backend Developer | Information Systems Student (4th semester)  
+- Fullstack Developer | Information Systems Student (4th semester)  
 - Career-transition professional with 1 year in IT Support and background in logistics & operations, now focused on Java backend development.
-
-💡 **Key Advantage**: 360° view – combining operational knowledge with technical solutions for real efficiency.  
-
----
-
-## 🛠️ Technical Skills  
-- **Backend** → Java (Spring Boot & Quarkus), Basics of Javascript
-- **Frontend** → HTML, CSS, Basics of Vue.js
-- **Databases** → MySQL, PostgreSQL, SQL Server  
-- **Tools** → Postman, Docker, Swagger  
-- **Documentation** → Requirements & technical specifications  
-
----
 
 ## 🌐 Technologies I Use  
 
@@ -58,3 +45,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenonun3s/)  
 [![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:morais.brenonunes@hotmail.com)  
+
